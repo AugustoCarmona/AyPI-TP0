@@ -1,12 +1,12 @@
-Trabajo Practico 0
+# Trabajo Practico 0 
 
-Este es el Trabajo Practico numero 0 de la materia Algoritmos y Programacion I.
+## Este es el Trabajo Practico numero 0 de la materia Algoritmos y Programacion I.
+
 De caracter individual. Fue entregado el dia 19 mayo de 2020.
-A continuacion se describe el enunciado y el el repositorio bajo el nombre "Carmona_106483.py" se encuentra el mismo archivo que yo entregue.
-El trabajo obtuvo la condicion de aprobado y solo se corrijo el error de usar parentesis "()" para encerrar la devlucion de un return.
+A continuacion se describe el enunciado y el el repositorio bajo el nombre "Carmona_106483.py" se encuentra el mismo archivo que yo entregue. El trabajo obtuvo la condicion de aprobado y solo se corrijo el error de usar parentesis "()" para encerrar la devlucion de un return.
 
 
-El trabajo:
+### El trabajo:
 
 Alumnos, a continuación encontrarán el enunciado e indicaciones de como deben proceder.
 
@@ -75,7 +75,7 @@ def validar_clave(clave):
 
 
 
-# -------------------------------- Bloque Principal -----------------------------#
+#-------------------------------- Bloque Principal -----------------------------#
 
 import doctest
 doctest.testmod()
